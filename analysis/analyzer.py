@@ -69,25 +69,31 @@ class Analyzer:
         if "Region" not in self.df.columns:
             logging.warning("Region 列不存在，跳过区域分组")
             return
+        df_valid = self.df[self.df["Region"] != "未知区域"]
         group = (
-            self.df.groupby("Region")["Price_num"]
+            df_valid.groupby("Region")["Price_num"]
             .agg(["count", "mean", "max", "min"])
+            .round(2)
             .reset_index()
         )
         self.results["region_group"] = group.to_dict(orient="records")
         logging.info("完成按区域分组")
 
+
     def group_by_room_type(self):
         if "Rooms" not in self.df.columns:
             logging.warning("Rooms 列不存在，跳过房型分组")
             return
+        df_valid = self.df[self.df["Rooms"] != "未提取"]
         group = (
-            self.df.groupby("Rooms")["Price_num"]
+            df_valid.groupby("Rooms")["Price_num"]
             .agg(["count", "mean", "max", "min"])
+            .round(2)
             .reset_index()
         )
         self.results["room_group"] = group.to_dict(orient="records")
         logging.info("完成按房型分组")
+
 
     # ---------- 保存 ----------
     def _json_converter(self, obj):
