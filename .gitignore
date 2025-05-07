@@ -1,0 +1,29 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# 日志
+log/
+*.log
+
+# 本地数据（视你需求保留与否）
+data/rent_data.csv
+data/cleaned_rent_data.csv
+
+# 分析结果（可重生成）
+analysis_results.json
+
+# 输出图表（可保留部分）
+output/*.html
+
+# IDE / 编辑器配置
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
