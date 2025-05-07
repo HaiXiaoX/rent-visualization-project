@@ -1,0 +1,48 @@
+2025-05-07 00:33:28,350 [INFO] ✅ 成功获取页面: https://sz.lianjia.com/zufang/
+2025-05-07 00:33:28,409 [INFO] ✅ 解析出 30 条房源
+2025-05-07 00:33:28,410 [INFO] ✅ 数据已保存到 data/rent_data.csv
+2025-05-07 00:33:28,421 [INFO] 加载数据成功，共 30 行
+2025-05-07 00:33:28,425 [INFO] 数据清理完成并保存，共 30 行 → data/cleaned_rent_data.csv
+2025-05-07 00:33:28,435 [INFO] 加载数据成功，共 30 行
+2025-05-07 00:33:28,435 [INFO] 完成基本统计分析
+2025-05-07 00:33:28,435 [WARNING] Region 列不存在，跳过区域分组
+2025-05-07 00:33:28,436 [WARNING] Rooms 列不存在，跳过房型分组
+2025-05-07 00:33:28,436 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 00:33:28,455 [INFO] 加载分析结果成功: analysis_results.json
+2025-05-07 00:33:28,621 [INFO] 已保存 basic_statistics.png
+2025-05-07 00:33:28,622 [WARNING] ⚠️ 没有 region_group 数据
+2025-05-07 00:33:28,622 [WARNING] ⚠️ 没有 room_group 数据
+2025-05-07 00:46:15,709 [INFO] ✅ 成功获取页面: https://sz.lianjia.com/zufang/
+2025-05-07 00:46:15,770 [INFO] ✅ 解析出 30 条房源
+2025-05-07 00:46:15,770 [INFO] ✅ 数据已保存到 data/rent_data.csv
+2025-05-07 00:46:15,784 [INFO] 加载数据成功，共 30 行
+2025-05-07 00:46:15,788 [INFO] 数据清理完成并保存，共 30 行 → data/cleaned_rent_data.csv
+2025-05-07 00:46:15,797 [INFO] 加载数据成功，共 30 行
+2025-05-07 00:46:15,797 [INFO] 完成基本统计分析
+2025-05-07 00:46:15,797 [WARNING] Region 列不存在，跳过区域分组
+2025-05-07 00:46:15,798 [WARNING] Rooms 列不存在，跳过房型分组
+2025-05-07 00:46:15,798 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 00:46:15,803 [INFO] 加载分析结果成功: analysis_results.json
+2025-05-07 00:46:15,984 [INFO] 已保存 basic_statistics.png
+2025-05-07 00:46:15,984 [WARNING] ⚠️ 没有 region_group 数据
+2025-05-07 00:46:15,985 [WARNING] ⚠️ 没有 room_group 数据
+2025-05-07 14:50:15,235 [INFO] ✅ 成功获取页面: https://sz.lianjia.com/zufang/
+2025-05-07 14:50:15,304 [INFO] ✅ 解析出 30 条房源
+2025-05-07 14:50:15,305 [INFO] ✅ 数据已保存到 data/rent_data.csv
+2025-05-07 14:50:15,334 [INFO] 加载数据成功，共 30 行
+2025-05-07 14:50:15,338 [INFO] 数据清理完成并保存，共 30 行 → data/cleaned_rent_data.csv
+2025-05-07 14:50:15,359 [INFO] 加载数据成功，共 30 行
+2025-05-07 14:50:15,359 [INFO] 完成基本统计分析
+2025-05-07 14:50:15,361 [INFO] 完成按区域分组
+2025-05-07 14:50:15,362 [INFO] 完成按房型分组
+2025-05-07 14:50:15,362 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 14:50:15,371 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 14:50:15,619 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 14:50:15,656 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 14:50:15,693 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 14:50:15,733 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 14:50:15,767 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 14:50:15,827 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 14:50:15,873 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 14:50:15,875 [WARNING] ⚠️ UnitPrice 列不存在，跳过单位租金图表
+2025-05-07 14:50:15,919 [INFO] ✅ 图表已保存: output\area_box_by_room.html

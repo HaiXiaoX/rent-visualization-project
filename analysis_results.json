@@ -1,0 +1,105 @@
+{
+    "basic_statistics": {
+        "mean_price": 4831.233333333334,
+        "max_price": 16500,
+        "min_price": 1600,
+        "mean_area": 54.58033333333333,
+        "max_area": 168.0,
+        "min_area": 18.0
+    },
+    "region_group": [
+        {
+            "Region": "南山区",
+            "count": 2,
+            "mean": 6050.0,
+            "max": 6500,
+            "min": 5600
+        },
+        {
+            "Region": "未知区域",
+            "count": 16,
+            "mean": 3942.9375,
+            "max": 6450,
+            "min": 1600
+        },
+        {
+            "Region": "福田区",
+            "count": 1,
+            "mean": 16500.0,
+            "max": 16500,
+            "min": 16500
+        },
+        {
+            "Region": "罗湖区",
+            "count": 5,
+            "mean": 6740.0,
+            "max": 10000,
+            "min": 3500
+        },
+        {
+            "Region": "龙华区",
+            "count": 1,
+            "mean": 4700.0,
+            "max": 4700,
+            "min": 4700
+        },
+        {
+            "Region": "龙岗区",
+            "count": 5,
+            "mean": 2970.0,
+            "max": 3800,
+            "min": 2200
+        }
+    ],
+    "room_group": [
+        {
+            "Rooms": "1室1厅",
+            "count": 15,
+            "mean": 3691.4,
+            "max": 5600,
+            "min": 2200
+        },
+        {
+            "Rooms": "2室1厅",
+            "count": 3,
+            "mean": 5883.333333333333,
+            "max": 6500,
+            "min": 4700
+        },
+        {
+            "Rooms": "2室2厅",
+            "count": 3,
+            "mean": 3466.6666666666665,
+            "max": 3800,
+            "min": 3200
+        },
+        {
+            "Rooms": "3室2厅",
+            "count": 2,
+            "mean": 12650.0,
+            "max": 16500,
+            "min": 8800
+        },
+        {
+            "Rooms": "4室2厅",
+            "count": 1,
+            "mean": 7300.0,
+            "max": 7300,
+            "min": 7300
+        },
+        {
+            "Rooms": "5室2厅",
+            "count": 1,
+            "mean": 10000.0,
+            "max": 10000,
+            "min": 10000
+        },
+        {
+            "Rooms": "未提取",
+            "count": 5,
+            "mean": 3783.2,
+            "max": 4832,
+            "min": 1600
+        }
+    ]
+}

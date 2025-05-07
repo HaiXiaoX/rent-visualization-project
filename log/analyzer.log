@@ -1,0 +1,175 @@
+2025-05-07 14:39:46,570 [INFO] 加载数据成功，共 30 行
+2025-05-07 14:39:46,570 [INFO] 完成基本统计分析
+2025-05-07 14:39:46,573 [INFO] 完成按区域分组
+2025-05-07 14:39:46,574 [INFO] 完成按房型分组
+2025-05-07 14:39:46,574 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 14:46:29,602 [INFO] 加载数据成功，共 30 行
+2025-05-07 14:46:29,602 [INFO] 完成基本统计分析
+2025-05-07 14:46:29,605 [INFO] 完成按区域分组
+2025-05-07 14:46:29,606 [INFO] 完成按房型分组
+2025-05-07 14:46:29,606 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:00:48,085 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:00:48,085 [INFO] 完成基本统计分析
+2025-05-07 15:00:48,088 [INFO] 完成按区域分组
+2025-05-07 15:00:48,089 [INFO] 完成按房型分组
+2025-05-07 15:00:48,089 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:00:48,090 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:00:48,345 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:00:48,382 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:00:48,420 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:00:48,459 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:00:48,494 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:00:48,552 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:00:48,599 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:02:31,493 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:02:31,494 [INFO] 完成基本统计分析
+2025-05-07 15:02:31,496 [INFO] 完成按区域分组
+2025-05-07 15:02:31,497 [INFO] 完成按房型分组
+2025-05-07 15:02:31,498 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:02:31,499 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:02:31,752 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:02:31,789 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:02:31,826 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:02:31,866 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:02:31,901 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:02:31,961 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:02:32,009 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:02:32,049 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:02:32,097 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:05:30,046 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:05:30,046 [INFO] 完成基本统计分析
+2025-05-07 15:05:30,048 [INFO] 完成按区域分组
+2025-05-07 15:05:30,049 [INFO] 完成按房型分组
+2025-05-07 15:05:30,050 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:05:30,051 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:05:30,319 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:05:30,357 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:05:30,393 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:05:30,432 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:05:30,466 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:05:30,529 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:05:30,575 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:05:30,616 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:05:30,665 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:08:57,408 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:08:57,409 [INFO] 完成基本统计分析
+2025-05-07 15:08:57,411 [INFO] 完成按区域分组
+2025-05-07 15:08:57,412 [INFO] 完成按房型分组
+2025-05-07 15:08:57,412 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:08:57,414 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:08:57,670 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:08:57,708 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:08:57,746 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:08:57,785 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:08:57,820 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:08:57,880 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:08:57,924 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:08:57,964 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:08:58,008 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:11:46,370 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:11:46,370 [INFO] 完成基本统计分析
+2025-05-07 15:11:46,372 [INFO] 完成按区域分组
+2025-05-07 15:11:46,374 [INFO] 完成按房型分组
+2025-05-07 15:11:46,374 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:11:46,375 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:11:46,635 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:11:46,674 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:11:46,712 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:11:46,751 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:11:46,785 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:11:46,846 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:11:46,892 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:11:46,931 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:11:46,977 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:13:03,090 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:13:03,090 [INFO] 完成基本统计分析
+2025-05-07 15:13:03,092 [INFO] 完成按区域分组
+2025-05-07 15:13:03,093 [INFO] 完成按房型分组
+2025-05-07 15:13:03,094 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:13:03,095 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:13:03,351 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:13:03,389 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:13:03,427 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:13:03,467 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:13:03,502 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:13:03,562 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:13:03,607 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:13:03,645 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:13:03,717 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:15:04,001 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:15:04,002 [INFO] 完成基本统计分析
+2025-05-07 15:15:04,003 [INFO] 完成按区域分组
+2025-05-07 15:15:04,004 [INFO] 完成按房型分组
+2025-05-07 15:15:04,005 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:15:04,006 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:15:04,259 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:15:04,298 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:15:04,335 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:15:04,374 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:15:04,408 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:15:04,468 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:15:04,514 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:15:04,552 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:15:04,612 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:16:27,580 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:16:27,581 [INFO] 完成基本统计分析
+2025-05-07 15:16:27,582 [INFO] 完成按区域分组
+2025-05-07 15:16:27,583 [INFO] 完成按房型分组
+2025-05-07 15:16:27,584 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:16:27,585 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:16:27,838 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:16:27,880 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:16:27,917 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:16:27,957 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:16:27,991 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:16:28,052 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:16:28,097 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:16:28,137 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:16:28,182 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:20:06,276 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:20:06,277 [INFO] 完成基本统计分析
+2025-05-07 15:20:06,279 [INFO] 完成按区域分组
+2025-05-07 15:20:06,280 [INFO] 完成按房型分组
+2025-05-07 15:20:06,280 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:20:06,281 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:20:06,536 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:20:06,575 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:20:06,612 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:20:06,652 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:20:06,687 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:20:06,747 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:20:06,793 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:20:06,833 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:20:06,866 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:21:40,414 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:21:40,415 [INFO] 完成基本统计分析
+2025-05-07 15:21:40,417 [INFO] 完成按区域分组
+2025-05-07 15:21:40,418 [INFO] 完成按房型分组
+2025-05-07 15:21:40,418 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:21:40,419 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:21:40,687 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:21:40,725 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:21:40,763 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:21:40,802 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:21:40,836 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:21:40,897 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:21:40,943 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:21:40,983 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:21:41,017 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:21:41,018 [INFO] ✅ 汇总图表页面已生成 → report.html
+2025-05-07 15:23:33,544 [INFO] 加载数据成功，共 30 行
+2025-05-07 15:23:33,545 [INFO] 完成基本统计分析
+2025-05-07 15:23:33,547 [INFO] 完成按区域分组
+2025-05-07 15:23:33,548 [INFO] 完成按房型分组
+2025-05-07 15:23:33,548 [INFO] 分析结果已保存 → analysis_results.json
+2025-05-07 15:23:33,549 [INFO] ✅ 加载分析结果成功: analysis_results.json
+2025-05-07 15:23:33,804 [INFO] ✅ 图表已保存: output\basic_statistics.html
+2025-05-07 15:23:33,843 [INFO] ✅ 图表已保存: output\region_group.html
+2025-05-07 15:23:33,881 [INFO] ✅ 图表已保存: output\room_group.html
+2025-05-07 15:23:33,921 [INFO] ✅ 图表已保存: output\region_distribution.html
+2025-05-07 15:23:33,956 [INFO] ✅ 图表已保存: output\room_distribution.html
+2025-05-07 15:23:34,015 [INFO] ✅ 图表已保存: output\price_vs_area.html
+2025-05-07 15:23:34,061 [INFO] ✅ 图表已保存: output\price_distribution.html
+2025-05-07 15:23:34,100 [INFO] ✅ 图表已保存: output\unit_price_distribution.html
+2025-05-07 15:23:34,135 [INFO] ✅ 图表已保存: output\area_box_by_room.html
+2025-05-07 15:23:34,135 [INFO] ✅ 汇总图表页面（美化版）已生成 → report.html

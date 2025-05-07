@@ -1,0 +1,21 @@
+{
+    "crawler": {
+        "url": "https://sz.lianjia.com/zufang/",
+        "site": "lianjia",
+        "output_file": "data/rent_data.csv",
+        "max_retries": 3,
+        "proxies_pool": []
+    },
+    "preprocess": {
+        "input_file": "data/rent_data.csv",
+        "output_file": "data/cleaned_rent_data.csv"
+    },
+    "analyzer": {
+        "input_file": "data/cleaned_rent_data.csv",
+        "output_file": "analysis_results.json"
+    },
+    "visualizer": {
+        "input_file": "analysis_results.json",
+        "output_dir": "data/visualizations"
+    }
+}
